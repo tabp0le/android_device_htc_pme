@@ -1018,3 +1018,7 @@ bin/time_daemon
 vendor/lib/libWVStreamControlAPI_L3.so|3bfb950f01c51430aeefdf9850301cba8e56645a
 vendor/lib/libwvdrm_L3.so|84e3aca99db67f2323e158131978e5bc3ad69fbc
 vendor/lib/mediadrm/libwvdrmengine.so|01c7543cf509c9cdbe0572178cc11fdf432ec2fd
+
+# Sprint
+-priv-app/SprintDM/SprintDM.apk
+-priv-app/SprintHM/SprintHM.apk
